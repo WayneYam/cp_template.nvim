@@ -8,7 +8,7 @@ With `lazy.nvim`
 
 ```
   {
-    "WayneYam/cp_template.nvim"
+    "WayneYam/cp_template.nvim",
     opts = {},
     cmd = { "GetTemplate" },
   },
